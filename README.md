@@ -24,7 +24,7 @@ INSTRUCCIONES:
 
 4) Si no se compila automaticamente: 
   - Seleccionamos el archivo App.js en Visual Studio Code
-  - Ctrl + S para compilar
+  - Ctrl + S para compilar (se debe hacer cada vez que se quiera actualizar los datos)
 
 ---------------------------------------------------------------------
 Application that consumes REST API services developed with React Native on EXPO platform. 
@@ -52,4 +52,4 @@ INSTRUCTIONS
 
 4) If it does not compile automatically:
    - Select the App.js file in Visual Studio Code
-   - Ctrl + S to compile 
+   - Ctrl + S to compile (needs to be done for update data)
