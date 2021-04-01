@@ -15,14 +15,16 @@ INSTRUCCIONES:
 
 2)En la pestaña "Terminal" de la barra de tareas superior, hacemos click en "New terminal" y escribimos; npm start.
 
-3) En caso de compilar el proyecto en android/IOS:
+3) Ahora escribimos; npm install --production
 
- -Descargar la APP "Expo Go" e instalar
- -Escanear el el codigo QR obtenido del terminal (En el caso de IOS se escanea desde la aplicacion principal de "Cámara", y para Android es posible tener que utilizar una aplicación externa como "qrcodescan.in" y escanear desde allí) 
+4) En caso de compilar el proyecto en android/IOS:
+
+ - Descargar la APP "Expo Go" e instalar
+ - Escanear el el codigo QR obtenido del terminal (En el caso de IOS se escanea desde la aplicacion principal de "Cámara", y para Android es posible tener que utilizar una aplicación externa como "qrcodescan.in" y escanear desde allí) 
  -Abrir el código utilizando la APP Expo go en tu dipositivo IOS/Android
  
 
-4) Si no se compila automaticamente: 
+5) Si no se compila automaticamente: 
   - Seleccionamos el archivo App.js en Visual Studio Code
   - Ctrl + S para compilar (se debe hacer cada vez que se quiera actualizar los datos)
 
@@ -41,15 +43,18 @@ INSTRUCTIONS
 
 1) To see the code open the project folder "nutrialusTest" from Visual Studio Code (recommended).
 
-2) In the "Terminal" tab of the upper task bar, click on "New terminal" and type; npm start.
+2) In the "Terminal" tab of the upper task bar, click on "New terminal". 
 
-3) In case of compiling the project in android / IOS:
+3) - Type the command; npm start.
+   - Now type the command; npm install --production
 
-  -Download the APP "Expo Go" and install
-  -Scan the QR code obtained from the terminal (In case of IOS you can scan from the main application "Camera", and for Android you will have to use an external web application such as the "qrcodescan.in")
-  -Open the code using Expo go APP on your mobile device
+4) In case of compiling the project in android / IOS:
+
+  - Download the APP "Expo Go" and install
+  - Scan the QR code obtained from the terminal (In case of IOS you can scan from the main application "Camera", and for Android you will have to use an external web application such as the "qrcodescan.in")
+  - Open the code using Expo go APP on your mobile device
  
 
-4) If it does not compile automatically:
+5) If it does not compile automatically:
    - Select the App.js file in Visual Studio Code
    - Ctrl + S to compile (needs to be done for update data)
