@@ -13,7 +13,7 @@ INSTRUCCIONES:
 
 1) Para ver el código abrir carpeta proyecto "nutrialusTest" desde Visual Studio Code (recomendado). 
 
-2)En la pestaña "Terminal" de la barra de tareas superior, hacemos click en "New terminal" y escribimos; npm start.
+2) En la pestaña "Terminal" de la barra de tareas superior, hacemos click en "New terminal" y escribimos; npm start.
 
 3) Ahora escribimos; npm install --production
 
